@@ -1,12 +1,9 @@
 package es.moodbox.txy.controller;
 
-import com.sun.deploy.util.SearchPath;
 import es.moodbox.txy.model.Meetup;
 import es.moodbox.txy.service.MeetupService;
-import org.apache.commons.logging.Log;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
-import org.springframework.ui.ModelMap;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
