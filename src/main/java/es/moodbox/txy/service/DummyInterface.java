@@ -15,6 +15,6 @@ public interface DummyInterface {
     public String someTwitterTwitter();
     public String addFB();
     public String addFB2();
-    public String addFB3();
+    public String addFB3ƒ();
 
 }
