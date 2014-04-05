@@ -7,5 +7,6 @@ public interface DummyInterface {
 
     public String someSome();
     public String someSomeFIX();
+    public String someSomeULTRAFIX();
 
 }
