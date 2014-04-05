@@ -6,5 +6,6 @@ package es.moodbox.txy.service;
 public interface DummyInterface {
 
     public String someSome();
+    public String someSomeFIX();
 
 }
