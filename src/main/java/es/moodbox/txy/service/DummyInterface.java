@@ -8,5 +8,9 @@ public interface DummyInterface {
     public String someSome();
     public String someSomeFIX();
     public String someSomeULTRAFIX();
+    public String someSome2();
+    public String someSome3();
+    public String someSome4();
+    public String someSome5();
 
 }
