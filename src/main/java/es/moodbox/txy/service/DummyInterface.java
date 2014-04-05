@@ -17,5 +17,7 @@ public interface DummyInterface {
     public String addFB2();
     public String addFB3ƒ();
     public String addFB3asdd();
+    public String addFB3asddsdsd();
+    public String addFBReallyNew();
 
 }
