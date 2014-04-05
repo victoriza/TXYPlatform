@@ -19,5 +19,9 @@ public interface DummyInterface {
     public String addFB3asdd();
     public String addFB3asddsdsd();
     public String addFBReallyNew();
+    public String rain();
+    public String rains();
+
+
 
 }
